@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(adb connect:*)",
+      "Bash(adb install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nFix Arabic BiDi text rendering using java.text.Bidi\n\n- Replace StaticLayout with java.text.Bidi algorithm for proper BiDi handling\n- Fix mixed text rendering (Arabic + English + numbers)\n- Draw each BiDi run separately with correct visual ordering\n- Maintain original font settings without Typeface changes\n- Remove unused StaticLayout and TextPaint code\n- Improve performance by removing unnecessary layout calculations\n\nThis fixes the issue where mixed directional text was displayed incorrectly.\nNow text like \"السلام hello 123\" renders properly with correct visual order.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git commit:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,6 @@
+7a59f90b371c974742e4581d5312d585  data/data/com.termux/files/usr/lib/liblz4.so.1.9.3
+8241772c87548cb60534afeb7af0c87d  data/data/com.termux/files/usr/lib/pkgconfig/liblz4.pc
+39c4b3909e7bc0971b0dd541ae4f36ea  data/data/com.termux/files/usr/include/lz4frame.h
+512cec02943e19319de298eca5f73704  data/data/com.termux/files/usr/include/lz4hc.h
+35c3be072c0229287a2d1624b689b7f1  data/data/com.termux/files/usr/include/lz4frame_static.h
+76afde45cae83b3c5d306c305bd66167  data/data/com.termux/files/usr/include/lz4.h
