@@ -1,0 +1,7 @@
+c5da5e092fe1467ae5097688a4ec7cc7  data/data/com.termux/files/usr/lib/pkgconfig/libxxhash.pc
+56ad937bbbe7fcb9924eead87ee59c21  data/data/com.termux/files/usr/lib/libxxhash.so.0.8.1
+cdfe7764d5685d8e08b3df302885d7f3  data/data/com.termux/files/usr/share/doc/xxhash/LICENSE
+517c3d8426085f5717ae0c85617d49ab  data/data/com.termux/files/usr/share/man/man1/xxhsum.1.gz
+63854394ee5e31db5681712c6b2527d0  data/data/com.termux/files/usr/include/xxhash.h
+54cb9696186f5e8787150b6df2e24d12  data/data/com.termux/files/usr/include/xxh3.h
+f58ecf1da0d106c7afa782ebd702b0f0  data/data/com.termux/files/usr/bin/xxhsum

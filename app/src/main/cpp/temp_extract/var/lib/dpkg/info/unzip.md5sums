@@ -1,0 +1,10 @@
+94caec5a51ef55ef711ee4e8b1c69e29  data/data/com.termux/files/usr/share/doc/unzip/LICENSE
+67d5749aeef0b5b1d6b52e699d1d2db1  data/data/com.termux/files/usr/share/man/man1/zipinfo.1.gz
+77a323b128929933a4e167a036fecad3  data/data/com.termux/files/usr/share/man/man1/funzip.1.gz
+9c41897290c97a1551339a5518879b68  data/data/com.termux/files/usr/share/man/man1/unzip.1.gz
+4625e0bbb542d7783e44f6312df378fe  data/data/com.termux/files/usr/share/man/man1/zipgrep.1.gz
+9ea7ba72fd2c23ccf4b1af3662b76a87  data/data/com.termux/files/usr/share/man/man1/unzipsfx.1.gz
+d126365af83a9ea5284ad8436be6f00c  data/data/com.termux/files/usr/bin/funzip
+bdf4a6c01f4f5cd01bdd08fff9151c0b  data/data/com.termux/files/usr/bin/unzipsfx
+c5b57c2c86d91652093937b1e81e4394  data/data/com.termux/files/usr/bin/unzip
+914141c7fb92bf69f7bd5f842d0a82de  data/data/com.termux/files/usr/bin/zipgrep
